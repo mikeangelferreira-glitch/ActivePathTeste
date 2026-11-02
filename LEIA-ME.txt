@@ -1,0 +1,9 @@
+ACTIVEPATH MELHORADA - NOVO REPOSITÓRIO
+
+Carregar todos estes ficheiros e a pasta assets para a raiz de um repositório público novo. Ativar Settings > Pages > Deploy from a branch > main > /(root).
+
+Melhorias:
+- Fases revistas individualmente: a legenda está ligada à posição apresentada.
+- Logótipo do cabeçalho reconstruído sobre fundo branco, sem a faixa preta lateral.
+- Fotografia de perfil personalizável e removível, guardada apenas no dispositivo.
+- Pesos, sessões, treino, pausas, voz, Tabata e cópia JSON.
